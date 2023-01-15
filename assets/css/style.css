@@ -1031,6 +1031,17 @@ section {
 /*--------------------------------------------------------------
 # Breadcrumbs
 --------------------------------------------------------------*/
+.box-projet{
+  padding: 20px 0;
+  background: #f9f9f9;
+  display: justify-content;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  transition: all 0.3s ease-in-out;
+  width: 600px;
+  height:400px;
+}
 .breadcrumbs {
   padding: 20px 0;
   background: #f9f9f9;
